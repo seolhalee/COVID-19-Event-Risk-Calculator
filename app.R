@@ -53,7 +53,7 @@ ui <- fluidPage(
   #theme = shinytheme("sandstone"),
   # Application title
   titlePanel(titlePanel(div(
-    column(width = 12, h2("COVID-19 Event Risk Assessment Planning tool 222"))
+    column(width = 12, h2("COVID-19 Event Risk Assessment Planning tool"))
     
   ))), #windowTitle = "COVID-19 Event Risk Assessment Planning tool"),
   HTML(paste0(
